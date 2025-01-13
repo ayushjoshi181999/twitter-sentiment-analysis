@@ -58,10 +58,7 @@ pip install -r requirements.txt
 ```
 
 Usage
-To train the sentiment analysis model, run the following command:
-```bash
-python main.py
-```
+To train the sentiment analysis model, run sentiment_analysis.ipynb
 
 
 This will preprocess the data, build the vocabulary, train the model, and save the trained model as sentiment_model.pth.
